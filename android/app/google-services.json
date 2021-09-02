@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358228007657",
+    "project_id": "rideoo",
+    "storage_bucket": "rideoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358228007657:android:76757f74ac0a9e1cdcae78",
+        "android_client_info": {
+          "package_name": "com.ridoodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358228007657-e01k9ikkqmamdmijc2fp2q9ofv6hlu0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridoodriver",
+            "certificate_hash": "552960bda66fe36071d48047b021ddd19fd94e27"
+          }
+        },
+        {
+          "client_id": "358228007657-ib9kgc9fnhqel201q4cnf6k7u29uroef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBU98aobg06OCgWJINU6RkgBq2_fWpLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358228007657-ib9kgc9fnhqel201q4cnf6k7u29uroef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
